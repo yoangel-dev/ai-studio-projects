@@ -1,6 +1,0 @@
-{
-  "name": "Crimson Flow",
-  "description": "Gestor de tareas elegante con fechas, filtros de estado y configuración de perfil de usuario.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
